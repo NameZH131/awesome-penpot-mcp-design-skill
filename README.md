@@ -1,4 +1,7 @@
 # awesome-penpot-mcp-design-skill
+first you should clone penpot mcp 
+and npm install and run penpot local service then you need to open online penpot to install penpot mcp plugin and start it.
+
 - 个人更新多次几个版本的
 - penpot mcp skillsPersonally updated several versions of Penpot MCP skills multiple times
 
